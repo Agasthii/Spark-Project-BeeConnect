@@ -3,7 +3,7 @@
 
 Our proposed solution is the development of a revolutionary Smart Bee Hive that integrates
 advanced technology to enhance beekeeping practices and honey harvesting efficiency while
-minimizing disruption to both the beekeeper and the bees in the hive.
+minimizing disruption to both the beekeeper and the bees in the hive. This project is still on development and we are hoping to implement it practically in the future.
 
 <p align="center">
   <img  src="https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/be16ebd3-3eb5-4a9d-b64f-65c64b0de038">
@@ -30,6 +30,10 @@ mites attach themselves to adult bees and their brood (developing bees in the ce
 on their hemolymph (bee’s equivalent of blood). Varroa mites can transmit viruses and
 weaken the immune system of bees, leading to various issues such as deformed wings, reduced
 lifespan, decreased reproductive capabilities, and colony collapse.
+As a solution, at the entrance of the hive, we have implemented
+a mite detection mechanism, allowing only one bee to pass through at a time. If a mite is
+detected, the affected bee is directed to a separate chamber where the mites are efficiently
+removed, ensuring the overall health of the colony.
 
 <p align="center">
   <img  src="https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/57118337-2e8c-4174-9b5e-7a52b176db6e">

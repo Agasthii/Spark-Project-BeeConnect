@@ -6,7 +6,7 @@ advanced technology to enhance beekeeping practices and honey harvesting efficie
 minimizing disruption to both the beekeeper and the bees in the hive.
 
 <p align="center">
-  <img  src="[LED_Driver.png](https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/be16ebd3-3eb5-4a9d-b64f-65c64b0de038)">
+  <img  src="https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/be16ebd3-3eb5-4a9d-b64f-65c64b0de038">
 </p>
 
 
@@ -19,9 +19,9 @@ for mite detection and removal in the brood, promoting the overall health and gr
 colony.
 
 <p align="center">
-  <img  src="[LED_Driver.png](https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/dcc8283a-38d8-4210-8b74-200f09fd4d0f)">
+  <img  src="https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/dcc8283a-38d8-4210-8b74-200f09fd4d0f">
 </p><p align="center">
-  <img  src="[LED_Driver.png](https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/c4bf4da2-e85f-4ef3-a445-2380bdb2dea7)">
+  <img  src="https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/c4bf4da2-e85f-4ef3-a445-2380bdb2dea7">
 </p>
 
 ## Varroa Mites
@@ -32,6 +32,6 @@ weaken the immune system of bees, leading to various issues such as deformed win
 lifespan, decreased reproductive capabilities, and colony collapse.
 
 <p align="center">
-  <img  src="[LED_Driver.png](https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/57118337-2e8c-4174-9b5e-7a52b176db6e)">
+  <img  src="https://github.com/Agasthii/Spark-Project-BeeConnect/assets/125986011/57118337-2e8c-4174-9b5e-7a52b176db6e">
 </p>
 
